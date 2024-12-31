@@ -1,4 +1,4 @@
-# Panel WP Connector
+# Plugin Panel WP Connector
 
 ## Descrição
 Plugin WordPress para integração com sistema central de automação e gerenciamento de sites.
